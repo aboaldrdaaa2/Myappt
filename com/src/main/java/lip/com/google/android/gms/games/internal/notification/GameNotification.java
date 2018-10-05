@@ -1,0 +1,4 @@
+package lip.com.google.android.gms.games.internal.notification;
+
+public interface GameNotification {
+}
